@@ -1,0 +1,6 @@
+<application>
+  <component name="GithubSettings">
+    <option name="LOGIN" value="bas2000@list.ru" />
+    <option name="AUTH_TYPE" value="BASIC" />
+  </component>
+</application>
